@@ -1,0 +1,372 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+
+body{
+    background-color: #e8daef  ;
+    zoom: 80%;
+    position: relative;
+    padding-bottom: 75px; /* 75px ideal */
+}
+
+
+
+.l1{
+    margin-top: 70px;
+    /*margin-left: 15%;*/
+    /*margin-right: 15%; */
+    margin-bottom: 0px;
+    /* border: 7px dashed purple; */
+    position: absolute;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.p3{
+    background-color: #e8daef  ;
+    zoom: 80%;
+}
+
+.contenedor{
+    font-size: 30px;
+    margin-top: 10px;    
+}
+
+.titulo{
+    font-family: "Galada", cursive;
+    font-weight: 400;
+    font-style: normal;
+    padding: 52px 5px 5px 5px;
+    color: blue;
+    text-align: center;
+    width: 100%;
+    text-shadow: 3px 3px 3px blueviolet;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.nav{
+    background-color: #e8daef;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    padding: 1px;
+    top: 0;
+    /*bottom: 0;*/
+    width: 100%;
+}
+
+.fuds{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.f{
+    display: inline-block;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.f:hover{
+    background-color: grey;
+}
+
+.f1{
+    display: inline-block;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.f1:hover{
+    background-color: gray;
+}
+
+.f2{
+    display: inline-block;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.f2:hover{
+    background-color: gray;
+}
+.link{
+    color: black;
+    text-align: center;
+    background-color: #d3a3ff;
+
+}
+
+.lks{
+    text-align: center;
+}
+
+.tdn{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.indicadores{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.ma{
+    color: #48c9b0;
+    background-color: #48c9b0 ;
+}
+
+.Ma{
+    background-color:  #48c9b0 ;
+}
+
+.Ma:hover{
+    background-color:  #a3e4d7 ;
+}
+
+.mat{
+    background-color:  #fb8787 ;
+}
+
+.Mat{
+    background-color: #fb8787  ;
+}
+
+.Mat:hover{
+    background-color: #fdb5b5 ;
+}
+
+.mtn{
+    background-color:  #d3a3ff ;
+}
+
+.Mtn{
+    background-color:  #d3a3ff ;
+}
+
+.Mtn:hover{
+    background-color:  #e0c6f8 ;
+}
+
+.mptn{
+    background-color:  #92f9c7 ;
+}
+
+.Mptn{
+    background-color:  #92f9c7 ;
+}
+
+.Mptn:hover{
+    background-color:  #c4fbe0 ;
+}
+
+.mtds{
+    background-color:  #fee697 ;
+}
+
+.Mtds{
+    background-color:  #fee697 ;
+}
+
+.Mtds:hover{
+    background-color:  #fceebf ;
+}
+
+.nmr{
+    background-color: #47feff ;
+}
+
+.Nomr{
+    background-color: #47feff;
+}
+
+.Nomr:hover{
+    background-color: #bcfeff;
+}
+
+.gn{
+    background-color:  #fdb282   ;
+}
+
+.Gn{
+    background-color:  #fdb282 ;
+}
+
+.Gn:hover{
+    background-color:  #fcd2b7 ;
+}
+
+.clspn{
+    background-color: #e8daef;
+}
+
+.itnds{
+    background-color: #9ffb88 ;
+}
+.Itnds{
+    background-color:  #9ffb88 ;
+}
+
+.Itnds:hover{
+    background-color:   #cefec2  ;
+}
+
+.actds{
+    background-color:  #f98ce2 ;
+}
+
+.Actds{
+    background-color:  #f98ce2 ;
+}
+
+.Actds:hover{
+    background-color:  #fec4f2 ;
+}
+
+.pds{
+    background-color:  #bcbabb ;
+}
+
+.Pds{
+    background-color:  #bcbabb ;
+}
+
+.Pds:hover{
+    background-color:  #d7d5d6 ;
+}
+
+.slya{
+    background-color: #e8daef;
+    color: #e8daef;
+}
+
+.tablap{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.elm{
+    border: 5px solid black;
+    background-color:  #e622ff ;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    width: 600px;
+    height: 370px; /*350px ideal */
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-top: 235px;
+    padding: 0px 1px 15px 1px;
+    border-radius: 10px;
+    display: none;
+}
+
+.ec{
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+}
+.txt{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.txto{
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 195px;
+}
+
+.atb{
+    position: absolute;
+    left: 50px;
+    bottom: 65px;
+}
+
+.exit{
+    position: absolute;
+    width: 30px;
+    top: 5px;
+    right: 10px;
+}
+
+.boton{
+    position: absolute;
+    left: 10px;
+    bottom: 15px;
+}
+
+.chp{
+    border: 7px dashed purple;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    width: 40%;    
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 90px;
+    /*
+    width: 777px;
+    height: 470px;
+    */
+    text-align: center;
+    position: absolute;
+    /*
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-top: 90px;
+    */
+    
+    padding: 0px 1px 15px 1px;
+    border-radius: 10px;
+}
+
+.Datos{
+    text-align: center;
+}
+
+.logo{
+    position: relative;
+    width: 40%;
+}
+
+.drds{
+    text-align: center;
+}
+
+.r1{
+    position: relative;
+    bottom: 8px;
+    right: 20px;
+}
+
+.r2{
+    position: relative;
+    bottom: 8px;
+    left: 20px;
+}
+
+.e{
+    text-decoration: none;
+    color: black;
+}
